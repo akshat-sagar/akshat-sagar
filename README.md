@@ -126,14 +126,11 @@ Python
 </table>
 
 ---
-
-## 📊 GitHub Stats
+# 🐍 Contribution Snake
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=akshat-sagar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat-sagar&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://raw.githubusercontent.com/akshat-sagar/akshat-sagar/output/github-contribution-grid-snake.svg">
 
 </p>
 
