@@ -3,22 +3,22 @@
 <h1 align="center">Hi 👋, I'm Akshat Sagar</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+API+Development;Data+Analytics+%7C+Power+BI+%7C+Tableau;Building+Scalable+and+Secure+Applications;Continuous+Learner+%7C+Problem+Solver" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+API+Development;Building+Scalable+and+Secure+Applications;Continuous+Learner+%7C+Problem+Solver" />
 </p>
 
 ---
 
 # 🚀 About Me
 
-- 🔭 I’m currently working on **Spring Boot Authentication System using Spring Security**
+* 🔭 I’m currently working on **Spring Boot Authentication System using Spring Security**
 
-- 🌱 I’m currently learning **Spring Boot, Spring Security, Backend Development and REST API Development**
+* 🌱 I’m currently learning **Spring Boot, Spring Security, Backend Development and REST API Development**
 
-- 👯 I’m looking to collaborate on **Java Backend Development and Spring Boot Projects**
+* 👯 I’m looking to collaborate on **Java Backend Development and Spring Boot Projects**
 
-- 💬 Ask me about **Java, Spring Boot, REST APIs, SQL, Data Analytics**
+* 💬 Ask me about **Java, Spring Boot, REST APIs, SQL**
 
-- 📫 How to reach me **abhibharti96396@gmail.com**
+* 📫 How to reach me **[socialsofakshat@gmail.com](mailto:socialsofakshat@gmail.com)**
 
 ---
 
@@ -28,30 +28,30 @@
 <tr>
 
 <td align="center" width="120">
-<a href="https://linkedin.com/in/abhaybharti1">
+<a href="https://www.linkedin.com/in/akshat-sagar/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50"><br>
 LinkedIn
 </a>
 </td>
 
 <td align="center" width="120">
-<a href="https://twitter.com/abhaybharti96">
+<a href="https://x.com/AkshatMastAadmi">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="50"><br>
-Twitter
+Twitter / X
 </a>
 </td>
 
 <td align="center" width="120">
-<a href="https://instagram.com/abr.9915">
+<a href="https://www.instagram.com/akshatmastaadmi/">
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="50"><br>
 Instagram
 </a>
 </td>
 
 <td align="center" width="120">
-<a href="https://www.hackerrank.com/@abhibharti96396">
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="50"><br>
-HackerRank
+<a href="mailto:socialsofakshat@gmail.com">
+<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="50"><br>
+Email
 </a>
 </td>
 
@@ -60,30 +60,16 @@ HackerRank
 <tr>
 
 <td align="center" width="120">
-<a href="https://codeforces.com/profile/abhaybharti">
-<img src="https://sta.codeforces.com/s/60645/images/codeforces-logo-with-telegram.png" width="50"><br>
-Codeforces
-</a>
-</td>
-
-<td align="center" width="120">
-<a href="https://www.leetcode.com/abhi123450">
+<a href="https://leetcode.com/u/akshat_sagar/">
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="50"><br>
 LeetCode
 </a>
 </td>
 
 <td align="center" width="120">
-<a href="https://auth.geeksforgeeks.org/user/abhibharti123">
+<a href="https://www.geeksforgeeks.org/profile/akshatsagar">
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="50"><br>
 GeeksforGeeks
-</a>
-</td>
-
-<td align="center" width="120">
-<a href="mailto:abhibharti96396@gmail.com">
-<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="50"><br>
-Email
 </a>
 </td>
 
@@ -136,21 +122,6 @@ C++
 Python
 </td>
 
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50"><br>
-Pandas
-</td>
-
-<td align="center" width="120">
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="50"><br>
-Seaborn
-</td>
-
-<td align="center" width="120">
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50"><br>
-Figma
-</td>
-
 </tr>
 </table>
 
@@ -160,9 +131,9 @@ Figma
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=AbhayBharti96&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=akshat-sagar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhayBharti96&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat-sagar&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -172,17 +143,7 @@ Figma
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com/?user=abhaybharti96&theme=radical">
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/abhaybharti96/abhaybharti96/output/github-contribution-grid-snake.svg">
+<img src="https://streak-stats.demolab.com/?user=akshat-sagar&theme=radical">
 
 </p>
 
